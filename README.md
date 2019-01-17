@@ -1,8 +1,10 @@
 # SPACCC_CheNE: Spanish Clinical Case Corpus - Chemical Named Entities
 
+
 ## Introduction
 
 This repository contains the annotations of chemical mentions, drugs and biosimilars with therapeutic relevance in clinical reports in the Spanish Clinical Case Corpus. 
+
 
 ## Repository structure
 
@@ -20,6 +22,7 @@ README.md
 This file.
 </pre>
 
+
 ## Document selection
 
 The SPACCC corpus was created after collecting 1,000 clinical cases from SciELO (Scientific Electronic Library Online), an electronic library that gathers electronic publications of complete full text articles from scientific journals of Latin America, South Africa and Spain (http://www.scielo.org).
@@ -27,7 +30,19 @@ The SPACCC corpus was created after collecting 1,000 clinical cases from SciELO 
 A clinician classified those cases into those that were similar to real clinical texts in terms of structure and content and those that were not suitable for this task. Figure legends were automatically removed and in case multiple clinical cases were listed, these were split into single clinical cases.
 
 
+## Annotation tool
+
+Annotations were carried out through AnnoateIt (https://github.com/openannotation/annotateit).
+
+
 ## Annotation format
+
+
+## Annotation types
+
+
+## Corpus predictions
+
 
 ## Annotation guidelines
 
