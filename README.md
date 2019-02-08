@@ -53,7 +53,7 @@ Guidelines have been written and developed in Spanish and are only available in 
 
 ## Corpus consistency
 
-The following table shows the interagreement results measured on a set of 50 documents. See the inter-annotator agreement report (Informe de control de calidad.pdf) included in folder IAA in this repository for further details. The required minimum level of agreement was 93%.
+The following table shows the interagreement results measured on a set of 50 documents. See the inter-annotator agreement report (Informe de control de calidad.pdf) included in folder IAA for further details. The required minimum level of agreement was 93%.
 
 |                                        |           |
 | -------------------------------------- | --------- |
